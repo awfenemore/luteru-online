@@ -30,9 +30,45 @@ const items = [
       "https://i.redd.it/9muj317w16581.jpg",
       "https://i.redd.it/kispr467qk681.jpg",
       "https://i.redd.it/mp4bc3d73ey61.jpg",
-      "https://gfycat.com/skeletalvapidfirefly-butterfly-painting",
+      "https://gfycat.com/ifr/SkeletalVapidFirefly",
       "https://www.reddit.com/r/oddlysatisfying/comments/my2ubv/mandala_string_art/",
-      "https://limitlane.com/wp-content/uploads/photo-gallery/imported_from_media_libray/These-waves-in-Morocco.jpg"
+      "https://limitlane.com/wp-content/uploads/photo-gallery/imported_from_media_libray/These-waves-in-Morocco.jpg",
+      "https://gfycat.com/ifr/NeighboringJauntyAustralianfreshwatercrocodile",
+      "https://i.redd.it/k46vxmv0anp31.jpg",
+      "https://i.redd.it/sneb7vxbmiw31.png",
+      "https://i.redd.it/fyr81wq1ar241.jpg",
+      "https://i.redd.it/pj4lclz51j341.jpg",
+      "https://i.redd.it/4mk0ae3cmnx31.jpg",
+      "https://i.redd.it/2psc8ktzvb241.jpg",
+      "https://i.redd.it/e0lgg8n8fm341.png",
+      "https://i.redd.it/17d0u9g1pm641.jpg",
+      "https://i.redd.it/bd282qmwgza41.jpg",
+      "https://www.redditmedia.com/r/oddlysatisfying/comments/eqrraf/putting_the_finishing_touches_on_a_palette_knife/?ref_source=embed&amp;ref=share&amp;embed=true",
+      "https://i.imgur.com/hSRS4RE.gifv",
+      "https://i.redd.it/cesh4zddilc41.jpg",
+      "https://i.redd.it/ukv96mnefge41.jpg",
+      "https://i.imgur.com/5lJqavG.jpg",
+      "https://i.imgur.com/AlrpNvk.jpg",
+      "https://i.imgur.com/aqZr8ol.jpg",
+      "https://i.redd.it/wkumy25icxe41.jpg",
+      "https://i.redd.it/1u2ysa794xd41.jpg",
+      "https://i.redd.it/arfll5hq7m941.jpg",
+      "https://i.redd.it/7x8ztmyo0al41.jpg",
+      "https://i.redd.it/tepohipu0km41.jpg",
+      "https://i.redd.it/ugdy6i3sqfm41.jpg",
+      "https://i.redd.it/jiy384ru41k51.jpg",
+      "https://i.redd.it/qwfk72tz00p51.jpg",
+      "https://i.redd.it/nv5zei5sc6r51.jpg",
+      "https://i.redd.it/ccg7li01oys51.jpg",
+      "https://i.redd.it/3dpt4pqkeju51.jpg",
+      "https://www.redditmedia.com/r/oddlysatisfying/comments/joa9kb/this_brush_technique_for_perfect_circles/?ref_source=embed&amp;ref=share&amp;embed=true",
+      "https://i.redd.it/ilvnpim90cy51.jpg",
+      "https://i.redd.it/j1mfmzh9gyd61.jpg",
+      "https://i.redd.it/js8mudupsih61.jpg",
+      "https://i.redd.it/ef76j28p5zh61.png",
+      "https://i.redd.it/7uddxcl5qki61.jpg",
+      "https://i.redd.it/e8bd94tc3uv61.png",
+      "https://i.redd.it/iz6wpru2ou771.jpg"
     ]
   },
   {
@@ -44,13 +80,16 @@ const items = [
       "https://vjmpublishing.nz/?p=22249",
       "https://i.imgur.com/EHwJNxm.jpg",
       "https://i.redd.it/3amzmuyuzp471.jpg",
-      "https://www.reddit.com/gallery/oae3sw",
+      "https://www.redditmedia.com/r/woodworking/comments/oae3sw/i_hand_make_these_wooden_shelves_thought_yall/?ref_source=embed&amp;ref=share&amp;embed=true",
       "https://i.redd.it/i7wfz7bw0ej71.jpg",
-      "https://www.reddit.com/gallery/pe8n8w",
+      "https://www.redditmedia.com/r/woodworking/comments/pe8n8w/solar_system_wall_art/?ref_source=embed&amp;ref=share&amp;embed=true",
       "https://i.redd.it/89wk5ccvipl71.jpg",
-      "https://www.reddit.com/r/woodworking/comments/q6y8pp/nuts_and_seeds_shelf_i_built_for_my_wife/",
+      "https://www.redditmedia.com/r/woodworking/comments/q6y8pp/nuts_and_seeds_shelf_i_built_for_my_wife/?ref_source=embed&amp;ref=share&amp;embed=true",
       "https://i.redd.it/df4e2npnyuv71.jpg",
-      "https://i.redd.it/bxmc0axx9s681.jpg"
+      "https://i.redd.it/bxmc0axx9s681.jpg",
+      "https://i.redd.it/0tclcjgijfc41.jpg",
+      "https://i.redd.it/fnxbn804hpd31.jpg",
+      "https://i.redd.it/35mhns8bb3p41.jpg"
     ]
   },
   {
@@ -58,20 +97,29 @@ const items = [
     pics: [
       "https://twitter.com/CricketBadge/status/1453039655079878663",
       "https://old.reddit.com/r/nba/comments/pvr2si/prime_manute_bol_77_weighed_roughly_the_same/",
-      "https://www.youtube.com/watch?v=ZsDbkFqLjDU&t=65s"
+      "https://www.youtube.com/watch?v=ZsDbkFqLjDU&t=65s",
+      "https://i.redd.it/xhzjvdorv8f41.png"
     ]
   },
   {
     title: "Other",
     pics: [
-      "https://gfycat.com/franktestycanvasback-lightning-strike-burning-tree-environment",
+      "https://gfycat.com/ifr/FrankTestyCanvasback",
       "https://i.redd.it/o66edwwn2td51.jpg",
-      "https://www.reddit.com/r/Damnthatsinteresting/comments/fyg4un/how_this_tesegrity_is_made_by_youlab/",
+      "https://www.redditmedia.com/r/Damnthatsinteresting/comments/fyg4un/how_this_tesegrity_is_made_by_youlab/?ref_source=embed&amp;ref=share&amp;embed=true",
       "https://i.redd.it/2h1tqccv6fj71.jpg",
-      "https://www.reddit.com/r/Damnthatsinteresting/comments/pp4ynq/brain_cells_in_a_culture_trying_to_form/",
+      "https://www.redditmedia.com/r/Damnthatsinteresting/comments/pp4ynq/brain_cells_in_a_culture_trying_to_form/?ref_source=embed&amp;ref=share&amp;embed=true",
       "https://i.redd.it/unn7n6wmjxq71.jpg",
       "https://i.redd.it/2sjnjrox2xu71.png",
-      "https://i.redd.it/w0fsg5zyi6w71.jpg"
+      "https://i.redd.it/w0fsg5zyi6w71.jpg",
+      "https://i.redd.it/pa98pybbx4z31.jpg",
+      "https://www.reddit.com/r/NoStupidQuestions/comments/edssoh/are_humans_closer_to_a_star_or_to_an_atom_in_size/",
+      "https://i.redd.it/d9bwld4dto641.jpg",
+      "https://i.redd.it/yfe8vvocza741.jpg",
+      "https://www.redditmedia.com/r/woahdude/comments/eovjtq/what_happens_when_semi_circles_spin/?ref_source=embed&amp;ref=share&amp;embed=true",
+      "https://i.redd.it/8bsfxg09o9c41.jpg",
+      "https://i.redd.it/4fdh1yl3vfn51.png",
+      "https://i.redd.it/pl4echg48kc61.png"
     ]
   }
 ];

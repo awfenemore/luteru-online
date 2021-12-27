@@ -29,11 +29,36 @@
             target="_blank"
           >
             <img v-if="isImage(pic)" :src="pic" class="pic-img" />
+            <iframe
+              v-else-if="isReddVid(pic)"
+              id="reddit-embed"
+              :src="pic"
+              sandbox="allow-scripts allow-same-origin allow-popups"
+              style="border: none;"
+              height="500"
+              width="500"
+              scrolling="no"
+            ></iframe>
             <img
               v-else-if="isRedditLink(pic)"
               src="./assets/reddit-logo.png"
               class="pic-img"
             />
+            <div
+              v-else-if="isGfycat(pic)"
+              style="position:relative; padding-bottom:calc(100.00% + 44px)"
+            >
+              <iframe
+                :src="pic"
+                frameborder="0"
+                scrolling="no"
+                width="100%"
+                height="100%"
+                style="position:absolute;top:0;left:0;"
+                allowfullscreen
+              >
+              </iframe>
+            </div>
             <h3 v-else>{{ pic }}</h3></a
           >
         </div>
@@ -62,6 +87,14 @@ export default Vue.extend({
     isRedditLink(url: string): boolean {
       const lower = url.toLowerCase();
       return lower.includes("redd");
+    },
+    isGfycat(url: string): boolean {
+      const lower = url.toLowerCase();
+      return lower.includes("gfycat");
+    },
+    isReddVid(url: string): boolean {
+      const lower = url.toLowerCase();
+      return lower.includes("redditmedia");
     }
   }
 });
