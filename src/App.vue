@@ -44,6 +44,7 @@
 
 <script lang="ts">
 import Vue from "vue";
+// @ts-ignore
 import items from "./items";
 
 export default Vue.extend({
