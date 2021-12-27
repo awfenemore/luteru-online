@@ -3,7 +3,7 @@
 
 // Desktop default - it just isnt really made to be read slowly on your phone. You'll be ok
 h1 {
-  color: $pli-grey;
+  color: $pli-white;
   margin-bottom: 24px;
   font: normal normal normal 42px $pli-header-font;
   margin-bottom: 48px;
@@ -11,32 +11,32 @@ h1 {
 }
 
 h3 {
-  color: $pli-grey;
+  color: $pli-white;
   font: normal normal 500 28px $pli-header-font;
   margin-bottom: 24px;
 }
 
 h4 {
   font-weight: 500;
-  color: $pli-grey;
+  color: $pli-white;
   font-family: $pli-header-font;
   font-size: 20px;
 }
 
 h5 {
   font-weight: normal;
-  color: $pli-grey;
+  color: $pli-white;
   font-family: $pli-text-font;
 }
 
 p, li, span {
-  color: $pli-grey;
+  color: $pli-white;
   font: normal normal 200 16px/24px $pli-text-font;
 }
 
 a {
   font-family: $pli-text-font;
-  color: $pli-forest;
+  color: $pli-white;
   :hover {
     color: $pli-leaf;
   }
@@ -44,7 +44,7 @@ a {
 
 .img-caption {
   width: 100%;
-  color: $pli-grey;
+  color: $pli-white;
   font-family: $pli-text-font !important;
   font-weight: 700;
   font-size: 14px;

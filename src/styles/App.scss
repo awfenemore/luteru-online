@@ -9,11 +9,41 @@
   color: $pli-white;
 }
 
-@media only screen and (max-width: $large) {
-  .v-main__wrap {
-    padding: 3vh 5vw;
-  }
+
+
+.heading-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 
+.menu-container {
+  display: flex;
+}
 
+.menu-link {
+  color: $pli-white !important;
+  text-decoration: underline;
+  padding: 8px 32px;
+}
+
+.section {
+  padding: 5vh 5vw;
+}
+
+.section-links {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-column-gap: 32px;
+}
+
+.pic-link {
+  width: 100%;
+  height: auto;
+}
+
+.pic-img {
+  width: 100%;
+}
 
