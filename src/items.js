@@ -98,7 +98,7 @@ const items = [
   {
     title: "Sport",
     pics: [
-      "https://twitter.com/CricketBadge/status/1453039655079878663",
+      // "https://twitter.com/CricketBadge/status/1453039655079878663",
       "https://old.reddit.com/r/nba/comments/pvr2si/prime_manute_bol_77_weighed_roughly_the_same/",
       "https://www.youtube.com/watch?v=ZsDbkFqLjDU&t=65s",
       "https://i.redd.it/xhzjvdorv8f41.png"
