@@ -75,8 +75,8 @@ const items = [
     title: "Ideas",
     pics: [
       "https://www.reddit.com/r/antiwork/comments/jh1sif/millennials_are_causing_a_baby_bust_what_the/g9upbyl/?context=3",
-      "https://www.vox.com/2016/7/6/12098122/california-pipevine-swallowtail-butterfly-population",
-      "https://www.goodnewsnetwork.org/largest-seagrass-meadow-restoration-in-the-world-in-virginia/",
+      // "https://www.vox.com/2016/7/6/12098122/california-pipevine-swallowtail-butterfly-population",
+      // "https://www.goodnewsnetwork.org/largest-seagrass-meadow-restoration-in-the-world-in-virginia/",
       "https://vjmpublishing.nz/?p=22249",
       "https://i.imgur.com/EHwJNxm.jpg",
       "https://i.redd.it/3amzmuyuzp471.jpg",
