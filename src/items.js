@@ -23,11 +23,9 @@ const items = [
       "https://i.redd.it/grrnhb95sux71.jpg",
       "https://i.redd.it/2hyihk3t69z71.jpg",
       "https://i.redd.it/23zw04j2t9081.jpg",
-      "https://i.redd.it/rjg3ulsros081.jpg",
       "https://i.redd.it/ta8dx7jfko381.jpg",
       "https://i.redd.it/n4yp1sjper481.png",
       "https://i.redd.it/sy04q065tu481.jpg",
-      "https://i.redd.it/9muj317w16581.jpg",
       "https://i.redd.it/kispr467qk681.jpg",
       "https://i.redd.it/mp4bc3d73ey61.jpg",
       "https://gfycat.com/ifr/SkeletalVapidFirefly",
@@ -67,8 +65,10 @@ const items = [
       "https://i.redd.it/js8mudupsih61.jpg",
       "https://i.redd.it/ef76j28p5zh61.png",
       "https://i.redd.it/7uddxcl5qki61.jpg",
-      "https://i.redd.it/e8bd94tc3uv61.png",
-      "https://i.redd.it/iz6wpru2ou771.jpg"
+      "https://i.redd.it/iz6wpru2ou771.jpg",
+      "https://i.redd.it/963v9t46n5b81.jpg",
+      "https://i.redd.it/283dbimhzab81.jpg",
+      "https://www.redditmedia.com/r/woahdude/comments/s3d2gf/princess_leia_over_an_acrylic_pour/?ref_source=embed&amp;ref=share&amp;embed=true"
     ]
   },
   {
@@ -89,7 +89,10 @@ const items = [
       "https://i.redd.it/bxmc0axx9s681.jpg",
       "https://i.redd.it/0tclcjgijfc41.jpg",
       "https://i.redd.it/fnxbn804hpd31.jpg",
-      "https://i.redd.it/35mhns8bb3p41.jpg"
+      "https://i.redd.it/35mhns8bb3p41.jpg",
+      "https://i.redd.it/oaeidckfed881.jpg",
+      "https://i.redd.it/rjg3ulsros081.jpg",
+      "https://i.redd.it/18w41zvmi4b81.jpg"
     ]
   },
   {
@@ -111,6 +114,7 @@ const items = [
       "https://www.redditmedia.com/r/Damnthatsinteresting/comments/pp4ynq/brain_cells_in_a_culture_trying_to_form/?ref_source=embed&amp;ref=share&amp;embed=true",
       "https://i.redd.it/unn7n6wmjxq71.jpg",
       "https://i.redd.it/2sjnjrox2xu71.png",
+      "https://i.redd.it/e8bd94tc3uv61.png",
       "https://i.redd.it/w0fsg5zyi6w71.jpg",
       "https://i.redd.it/pa98pybbx4z31.jpg",
       "https://www.reddit.com/r/NoStupidQuestions/comments/edssoh/are_humans_closer_to_a_star_or_to_an_atom_in_size/",
@@ -119,7 +123,9 @@ const items = [
       "https://www.redditmedia.com/r/woahdude/comments/eovjtq/what_happens_when_semi_circles_spin/?ref_source=embed&amp;ref=share&amp;embed=true",
       "https://i.redd.it/8bsfxg09o9c41.jpg",
       "https://i.redd.it/4fdh1yl3vfn51.png",
-      "https://i.redd.it/pl4echg48kc61.png"
+      "https://i.redd.it/pl4echg48kc61.png",
+      "https://i.redd.it/8jh8vc5tdwu71.jpg",
+      "https://i.redd.it/9muj317w16581.jpg"
     ]
   }
 ];
