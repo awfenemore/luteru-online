@@ -2,7 +2,7 @@
   "name": "luteru-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://awfenemore.github.io/luteru-project/",
+  "homepage": "https://awfenemore.github.io/luteru-online/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
