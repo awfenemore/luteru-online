@@ -1,4 +1,4 @@
 module.exports = {
   transpileDependencies: ["vuetify"],
-  publicPath: "/luteru-project"
+  publicPath: "/luteru-online"
 };
