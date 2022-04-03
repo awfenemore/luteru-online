@@ -1,0 +1,11 @@
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    svg {background-color: black;}
+    text.taylor { font: bold 80px sans-serif; fill: white; }
+    text.three { font: bold 240px sans-serif; fill: white; }
+  </style>
+  <text x="250" y="150" class="taylor" text-anchor="middle">TAYLOR</text>
+  <text x="250" y="360" class="three" text-anchor="middle">3</text>
+  <rect x="30" y="0" width="6" height="500" fill="white" />
+  <rect x="470" y="0" width="6" height="500" fill="white" />
+</svg>
